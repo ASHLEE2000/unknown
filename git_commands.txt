@@ -1,0 +1,8 @@
+ git init
+ touch file1.txt
+git add .
+git commit -m "adding first file"
+git status
+git branch new
+git remote add origin master https://github.com/ASHLEE2000/unknown.git
+git push -u origin master
